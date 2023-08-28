@@ -1,6 +1,6 @@
 # E-Taka: Electronic Waste Disposal and Recycling Platform
+![E-Taka logo](https://github.com/nyeliep/E-Taka/assets/119076184/779a15ca-84e6-4fb6-a70a-e01b83f771e7)
 
-![E-Taka Logo](https://github.com/nyeliep/E-Taka-Website/assets/119076184/6e20dc63-c096-4a39-924a-a1288b991874)
 
 Welcome to E-Taka, an innovative platform  that is dedicated to addressing the growing concern of electronic waste disposal and promoting recycling. It aims to provide individuals with a convenient and eco-friendly way to dispose of their electronic waste while also offering a marketplace for buying and selling recyclable materials. Additionally, recycling companies are equipped with a Django-based dashboard for managing and tracking recycling activities. This README will guide you through the features, setup, and usage of the E-Taka platform.
 
