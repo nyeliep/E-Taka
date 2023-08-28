@@ -2,7 +2,7 @@
 
 ![E-Taka Logo](https://github.com/nyeliep/E-Taka-Website/assets/119076184/6e20dc63-c096-4a39-924a-a1288b991874)
 
-Welcome to E-Taka, an innovative platform that includes an Android app, an informative website, and a recycling company dashboard created using Django. E-Taka is dedicated to addressing the growing concern of electronic waste disposal and promoting recycling. The platform aims to provide individuals with a convenient and eco-friendly way to dispose of their electronic waste while also offering a marketplace for buying and selling recyclable materials. Additionally, recycling companies are equipped with a Django-based dashboard for managing and tracking recycling activities. This README will guide you through the features, setup, and usage of the E-Taka platform.
+Welcome to E-Taka, an innovative platform with an Android app, an informative website, and a recycling company dashboard created using Django. E-Taka is dedicated to addressing the growing concern of electronic waste disposal and promoting recycling. The platform aims to provide individuals with a convenient and eco-friendly way to dispose of their electronic waste while also offering a marketplace for buying and selling recyclable materials. Additionally, recycling companies are equipped with a Django-based dashboard for managing and tracking recycling activities. This README will guide you through the features, setup, and usage of the E-Taka platform.
 
 ## Table of Contents
 
@@ -12,8 +12,6 @@ Welcome to E-Taka, an innovative platform that includes an Android app, an infor
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
